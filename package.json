@@ -1,6 +1,6 @@
 {
   "name": "@cw-types/lodash",
-  "version": "4.17.4",
+  "version": "4.17.4-1",
   "author": "Kavan J. Shaban (Cycloware, LLC)",
   "description": "Typescript typings for `lodash`",
   "homepage": "https://github.com/Cycloware/cw-types-lodash",
